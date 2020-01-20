@@ -1,0 +1,27 @@
+[
+  
+    {
+    "key": "fieldRequired",
+    "message": "{{fieldName}} is required",
+    "parameters": [
+      {
+        "name": "fieldName",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "key": "fieldEqual",
+    "message": "{{fieldName}} should match {{referenceValue}}",
+    "parameters": [
+      {
+        "name": "fieldName",
+        "value": ""
+      },
+      {
+        "name": "referenceValue",
+        "value": ""
+      }
+    ]
+  }
+]
